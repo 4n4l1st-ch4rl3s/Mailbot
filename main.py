@@ -41,10 +41,10 @@ def send_email(receiver, subject, message):
 
 
 email_list = {
-    'picture' : 'd4rkm4tt3r@telegmail.com',
-    'rich': 'goldeneggs@telegmail.com',
-    'loud' : 'wisechris@cyberservices.com',
-    'hydra' : 'ckoome55@gmail.com'
+    'user1' : 'mail1@gmail.com',
+    'user2': 'mail2@gmail.com',
+    'user3' : 'mail3@gmail.com',
+    'user4' : 'mail4@gmail.com'
 
 }
 
